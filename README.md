@@ -7,7 +7,7 @@ This is my space for completing the [*Learn Enough™ HTML to Be Dangerous*](htt
 
 Current to-do list:
 - [x] Create a README file
-- [ ] Basic HTML
+- [x] Basic HTML
 - [ ] Filling in the index page
 - [ ] More pages, more tags
 - [ ] Inline styling
